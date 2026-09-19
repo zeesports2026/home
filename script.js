@@ -153,7 +153,7 @@ window.addEventListener('load', function() {
     if (preloader) {
         setTimeout(function() {
             preloader.classList.add('preloader-hide');
-        }, 5000);
+        }, 1000);
     }
 });
 
